@@ -1,0 +1,1 @@
+yolo pose train model=yolo11m-pose.pt data=YOLO_DATASET_4/data.yaml epochs=150 imgsz=640 batch=16 lr0=0.001 optimizer=AdamW name=animal_pose_experiment

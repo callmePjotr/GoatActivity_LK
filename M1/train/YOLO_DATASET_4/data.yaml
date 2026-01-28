@@ -1,0 +1,25 @@
+path: path_to_this_dataset_folder
+
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: animal
+
+kpt_shape: [5, 3]
+
+node_names:
+  - head
+  - shoulder
+  - torso
+  - hip
+  - tail_base
+
+flip_idx: [0, 1, 2, 3, 4]
+
+skeleton:
+  - [0, 1]
+  - [1, 2]
+  - [2, 3]
+  - [3, 4]

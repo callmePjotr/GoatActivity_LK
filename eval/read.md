@@ -1,0 +1,2 @@
+- M3 und 3.1 benötigen keine Evaluation
+- M4 gibt nach dem Training direkt die Scores aus

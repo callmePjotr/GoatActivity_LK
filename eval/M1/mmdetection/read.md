@@ -1,0 +1,2 @@
+- für reproduzierbarkeit mmdetection repo klonen
+- unter "configs/custom/faster_rcnn_r50_custom.py" einfügen
